@@ -2,8 +2,8 @@
 
 A simple, mobile-friendly website featuring 16 powerful adages about ignorance and knowledge. 
 
-**Live Demo:** `https://yourusername.github.io/adages-on-ignorance`  
-*Replace `yourusername` with your actual GitHub username after deployment*
+**Live Demo:** `https://HAMMAL8.github.io/adages-on-ignorance`  
+*Will go live 1-2 mins after you enable GitHub Pages*
 
 ## Features
 
@@ -27,11 +27,5 @@ A simple, mobile-friendly website featuring 16 powerful adages about ignorance a
 
 1. **Local**: Download `index.html` and open it in any browser
 2. **Deploy**: Upload to GitHub and enable Pages under Settings → Pages → Branch: `main`
-
-## Screenshots
-
-| Dark Mode | Light Mode |
-| --- | --- |
-| *Add screenshot here* | *Add screenshot here* |
 
 ## File Structure
